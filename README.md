@@ -1,4 +1,4 @@
-# NVIDIA: Fundamentals of Deep Learning — Coursera Completion
+# NVIDIA: Fundamentals of Deep Learning: Coursera Completion
 
 This repository contains proof of completion for the NVIDIA Deep Learning course assigned as part of UCS761 Deep Learning coursework.
 
